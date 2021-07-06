@@ -1,3 +1,3 @@
 # git_practice
 
-2021 06 27\_박근우
+REST API 설계 연습
